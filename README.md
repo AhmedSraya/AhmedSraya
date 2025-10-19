@@ -85,15 +85,16 @@ class WhoAmI:
         KeepImprovingEveryDay()
  ```
  
-## Current Works
+## 🛡️ Current Works
 * Breaking into Cybersecurity & Network Engineering 🔐  
 * I'm currently working on 🔭 enhancing my skills in **Network Defense, Ethical Hacking, and Security Automation**, and 🌐 deepening my knowledge in **Penetration Testing, Linux, and Network Security Tools**.
 
  
-## Other Stuff
+## 💼 Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/10wiuUNX83A-qeIAam_UzKVBEhGrINKvD/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+  - Dedicated to securing systems, strengthening networks, and continuously expanding my expertise in Cybersecurity.
+ 
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSraya&show_icons=true&hide=[%22issues%22])
  
  
