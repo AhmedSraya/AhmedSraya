@@ -22,7 +22,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwael&layout=compact">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSraya&layout=compact">-->
 
 
 ## 🧠 Programming Languages
